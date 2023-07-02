@@ -46,7 +46,7 @@ Detect:  <br/>
 Respond:  <br/>
 
 
-<img src="https://i.imgur.com/dcqTF4P.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cWlaVrU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br />
 Recover:  <br/>
 
